@@ -235,7 +235,7 @@
 						<li><a href="index.html">Home</a></li>
 						<li><a href="about.html">About</a></li>
 						
-						<li class="active"><a href="contact.html">Contact</a></li>
+						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>
 					<h1 id="fh5co-logo"><a href="index.html">Beam Support<span>.</span></a></h1>
 					<ul class="pull-right right-menu">
@@ -260,7 +260,7 @@
 						-->
 						<div class="fh5co-center-position">
 							<h2 class="animate-box">Contact Us</h2>
-							<h3 class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there.</h3>
+							<h3 class="animate-box"></h3>
 							
 						</div>
 					</div>
@@ -345,18 +345,7 @@
 		
 		<!-- END #fh5co-testimonials -->
 
-		<section id="fh5co-subscribe">
-			<div class="container">
 		
-				<h3 class="animate-box"><label for="email">Subscribe to our newsletter</label></h3>
-				<form action="#" method="post" class="animate-box">
-					<i class="fh5co-icon icon-paper-plane"></i>
-					<input type="email" class="form-control" placeholder="Enter your email" id="email" name="email">
-					<input type="submit" value="Send" class="btn btn-primary">
-				</form>
-
-			</div>
-		</section>
 		<!-- END #fh5co-subscribe -->
 
 		<footer id="fh5co-footer">
@@ -369,7 +358,7 @@
 								<li><a href="index.html">Home</a></li>
 								<li><a href="about.html">About Us</a></li>
 								
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="contact.php">Contact</a></li>
 								
 							</ul>
 						</div>
