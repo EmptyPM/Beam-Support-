@@ -237,7 +237,7 @@
 						
 						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>
-					<h1 id="fh5co-logo"><a href="index.html">Beam Support<span>.</span></a></h1>
+					<h1 id="fh5co-logo"><a href="index.html">Beam Support<span></span></a></h1>
 					<ul class="pull-right right-menu">
 						
 						<li class="fh5co-cta-btn"><a href="Beam_Support_Application_Form_2018.PDF" download>Join Beam Support</a></li>
@@ -401,7 +401,7 @@
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-google-plus"></i></a></li>
 								<li><a href="https://www.instagram.com/beamsupport/"><i class="icon-instagram"></i></a></li>
-								<li><a href="www.linkedin.com/in/beamsupport"><i class="icon-linkedin"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/beamsupport/"><i class="icon-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
