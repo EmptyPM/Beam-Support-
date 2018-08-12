@@ -49,7 +49,9 @@
 	<!-- Styleswitcher ( This style is for demo purposes only, you may delete this anytime. ) -->
 	<link rel="stylesheet" id="theme-switch" href="css/style.css">
 	<!-- End demo purposes only -->
+	<LINK REL="SHORTCUT ICON"
 
+       HREF="images/3dafw_4P9_icon.ico">
 
 	<style>
 	/* For demo purpose only */
