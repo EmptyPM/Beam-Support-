@@ -51,7 +51,7 @@
 	<!-- End demo purposes only -->
 	<LINK REL="SHORTCUT ICON"
 
-       HREF="images/3dafw_4P9_icon.ico">
+       HREF="images/3dafwnew.png">
 
 	<style>
 	/* For demo purpose only */
